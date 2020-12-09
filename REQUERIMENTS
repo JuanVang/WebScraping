@@ -1,0 +1,6 @@
+Librerias externas:
+beautifulsoup4==4.9.3
+pip install bautifulsoup4
+requests==2.25.0
+pip install requests
+
